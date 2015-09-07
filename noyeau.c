@@ -23,7 +23,7 @@ void lancementFusee (void) {
     Avion av;
     av.decolle(mach3); // Attntion mach3 n'est pas déclaré
 
-    int a = 1; // allumage des moteurs de la RAM
+    int a = 5; // allumage des moteurs de la RAM
     
     /**
      Et là DSU rajoute un truc. et moi un mot
