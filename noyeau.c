@@ -22,4 +22,8 @@ void lancementFusee (void) {
      */
     Avion av;
     av.decolle(mach3); // Attntion mach3 n'est pas déclaré
+    
+    /**
+     Et là DSU rajoute un truc.
+     */
 }
