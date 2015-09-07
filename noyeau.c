@@ -22,4 +22,6 @@ void lancementFusee (void) {
      */
     Avion av;
     av.decolle(mach3); // Attntion mach3 n'est pas déclaré
+
+    int a = 1; // allumage des moteurs de la RAM
 }
