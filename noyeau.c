@@ -1,3 +1,6 @@
+/**
+ * Voici un fichier typique que vous pouvez modifier afin d'effectuer des tests avec GitHub
+ */
 #include <fusee.h>
 #include <reacteur.h>
 #include <moteur.h>
