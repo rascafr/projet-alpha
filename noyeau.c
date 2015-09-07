@@ -21,5 +21,5 @@ void lancementFusee (void) {
      * Code ajouté par David.
      */
     Avion av;
-    av.decolle(mach3);
+    av.decolle(mach3); // Attntion mach3 n'est pas déclaré
 }
