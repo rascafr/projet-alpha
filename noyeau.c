@@ -16,4 +16,10 @@ void lancementFusee (void) {
 	Fusee f;
 	FuseeInit(f);
 	f.moteur = m;
+    
+    /**
+     * Code ajouté par David.
+     */
+    Avion av;
+    av.decolle(mach3);
 }
