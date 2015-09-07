@@ -26,6 +26,6 @@ void lancementFusee (void) {
     int a = 1; // allumage des moteurs de la RAM
     
     /**
-     Et là DSU rajoute un truc.
+     Et là DSU rajoute un truc. et moi un mot
      */
 }
